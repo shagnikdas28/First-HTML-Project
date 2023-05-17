@@ -1,0 +1,40 @@
+
+
+body {background-color: rgb(205, 233, 236)}
+
+hr { 
+      background-color: rgb(205, 233, 236);
+      border-style : none ;
+      border-top-style: dotted ; 
+      height: 0px; 
+      width: 20%;
+      border-width: 5px;
+
+   }
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+img  :hover {background-color: gold;}
+
+.ronaldo
+{background-color: white;
+
+}
+
+.messi{background-color: blue;}
+
+p{font-size: 20px;}
+
+ol{font-size: 20px;}
+
+.mun{font-size: 50px;}
+
+.siuuu{font-size: 50px;}
+
+.circular{border-radius: 100%;}
